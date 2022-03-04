@@ -3,14 +3,7 @@
 Java known Programmes 
 Basic Java 
 Advance java 
-Advance Java- Three Layers-Service layer, Business layer and Front end
-
-
-Front End- Html, CSS, Java Script, Json Objects.
-
-Service Layer- Java and Rest API's
-
-Business layer - Connecting Data bases 
+Advance Java- Three Layers-Service layer, Business layer and Front end,Front End- Html, CSS, Java Script, Json Objects,Business layer - Connecting Data bases
 
 Done!
 
