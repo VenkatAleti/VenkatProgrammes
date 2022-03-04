@@ -3,12 +3,6 @@
 Java known Programmes 
 Basic Java 
 Advance java 
-Advance Java- Three Layers-Service layer, Business layer and Front end,Front End- Html, CSS, Java Script, Json Objects,Business layer - Connecting Data bases
-okay Not at all
-okay Not at all
-Okay Not at all
-okay Not at all
-okay Not at all
-okay Not at all
-Done! Not at all
+Let's see is it working or not
+Let's see
 Thank You :)
